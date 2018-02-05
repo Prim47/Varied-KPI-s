@@ -1,0 +1,115 @@
+﻿"id","title","box_type_id","collection_id","cuisine_id","protein_id"
+1,Speedy Halloumi Noodles,2,1,1,7
+2,Simple Chicken Red Curry,1,2,1,1
+5,Smoked Sea Bass Pie,1,2,4,3
+8,Keralan Halloumi Rogan Josh,2,2,2,7
+10,Spicy Sea Bass Green Curry,1,2,1,3
+16,Classic Tofu Pie,2,2,4,6
+18,Classic Steak Risotto,1,2,3,2
+20,Tuscan Steak Linguine,1,1,3,2
+24,Tuscan Sausage Risotto,1,2,3,4
+31,Mild Sea Bass Vindaloo,1,1,2,3
+33,Mild Pork Loin Jalfrezi,1,2,2,4
+35,Classic Sea Bass Pie,1,1,4,3
+39,Spicy Tofu Rogan Josh,2,2,2,6
+41,Glazed Sea Bass Traybake,1,2,4,3
+49,Spicy Haddock Rice Bowl,1,1,1,3
+51,Mild Aubergine Rogan Josh,2,2,2,5
+53,Spicy Steak Vindaloo,1,1,2,2
+55,Thai Aubergine Pad Thai,2,2,1,5
+61,Classic Tofu Orzo,2,2,3,6
+63,One pot Chicken Risotto,1,2,3,1
+67,Herby Aubergine Pasta Bake,2,2,3,5
+77,Simple Chicken Rogan Josh,1,2,2,1
+80,Fragrant Chicken Stir Fry,1,2,1,1
+86,Smoked Aubergine Meatballs,2,2,4,5
+90,Spicy Chicken Vindaloo,1,2,2,1
+110,One pot Mackerel Orzo,1,2,3,3
+111,Classic Chicken Pasta Bake,1,2,3,1
+112,Sizzling Mackerel Pad Thai,1,2,1,3
+115,Quick Chicken Rogan Josh,1,1,2,1
+116,Keralan Aubergine Biryani,2,1,2,5
+120,Roast Halloumi Pie,2,2,4,7
+121,Spicy Tofu Noodles,2,1,1,6
+122,Simple Pork Chop Rice Bowl,1,2,1,4
+125,Simple Tofu Jalfrezi,2,1,2,6
+126,Thai Aubergine Stir Fry,2,2,1,5
+128,Creamy Beef Risotto,1,2,3,2
+129,Glazed Tofu Meatballs,2,1,4,6
+130,Spicy Beef Pad Thai,1,2,1,2
+141,Classic Halloumi Pasta Bake,2,2,3,7
+150,Herby Haddock Orzo,1,2,3,3
+152,Crispy Tofu Pie,2,2,4,6
+164,Spicy Haddock Korma,1,2,2,3
+166,Simple Pork Chop Rogan Josh,1,2,2,4
+169,Simple Aubergine Korma,2,2,2,5
+174,Spicy Tofu Rice Bowl,2,2,1,6
+177,Creamy Mackerel Risotto,1,2,3,3
+179,Simple Halloumi Green Curry,2,2,1,7
+180,Tuscan Halloumi Orzo,2,1,3,7
+181,Simple Halloumi Jalfrezi,2,1,2,7
+182,Herby Pork Chop Risotto,1,1,3,4
+183,Tuscan Steak Orzo,1,1,3,2
+187,Herby Chicken Risotto,1,2,3,1
+188,Spicy Pork Chop Korma,1,2,2,4
+194,Simple Steak Biryani,1,2,2,2
+195,Classic Pork Loin Traybake,1,1,4,4
+198,Thai Sea Bass Red Curry,1,2,1,3
+199,Simple Mackerel Rice Bowl,1,1,1,3
+202,Fragrant Pork Chop Jalfrezi,1,2,2,4
+203,Glazed Aubergine Traybake,2,1,4,5
+206,Crispy Beef Stew,1,2,4,2
+211,Crispy Pork Loin Traybake,1,2,4,4
+214,Crispy Steak Meatballs,1,2,4,2
+216,Crispy Pork Chop Traybake,1,1,4,4
+218,Classic Chicken Stew,1,2,4,1
+220,Simple Beef Noodles,1,2,1,2
+225,Speedy Sausage Green Curry,1,1,1,4
+230,Thai Chicken Noodles,1,1,1,1
+231,Roast Chicken Pie,1,2,4,1
+232,Herby Aubergine Lasagne,2,2,3,5
+233,Mild Beef Biryani,1,1,2,2
+238,Tuscan Aubergine Risotto,2,1,3,5
+245,Thai Beef Green Curry,1,2,1,2
+247,Classic Tofu Risotto,2,2,3,6
+249,Keralan Tofu Jalfrezi,2,2,2,6
+252,One pot Pork Loin Pasta Bake,1,2,3,4
+257,Glazed Pork Loin Stew,1,2,4,4
+258,Speedy Halloumi Pad Thai,2,2,1,7
+261,Roast Halloumi Stew,2,1,4,7
+263,Simple Haddock Biryani,1,2,2,3
+265,Simple Pork Loin Rice Bowl,1,2,1,4
+266,Tuscan Halloumi Pasta Bake,2,2,3,7
+271,Roast Aubergine Stew,2,2,4,5
+275,Creamy Chicken Orzo,1,1,3,1
+284,Roast Chicken Stew,1,1,4,1
+286,Roast Sea Bass Traybake,1,2,4,3
+291,Crispy Halloumi Traybake,2,2,4,7
+299,Keralan Chicken Dal,1,2,2,1
+300,Mild Steak Jalfrezi,1,2,2,2
+302,Thai Steak Green Curry,1,1,1,2
+304,Speedy Aubergine Rice Bowl,2,1,1,5
+307,Simple Pork Chop Green Curry,1,2,1,4
+308,Simple Sea Bass Dal,1,2,2,3
+311,Herby Aubergine Risotto,2,2,3,5
+313,Thai Chicken Red Curry,1,2,1,1
+315,Speedy Steak Green Curry,1,2,1,2
+317,Tuscan Tofu Linguine,2,1,3,6
+320,Roast Beef Stew,1,1,4,2
+325,Creamy Sea Bass Risotto,1,1,3,3
+326,Roast Pork Chop Stew,1,1,4,4
+328,Classic Steak Traybake,1,2,4,2
+333,Spicy Steak Jalfrezi,1,2,2,2
+338,Simple Tofu Korma,2,2,2,6
+341,Simple Halloumi Dal,2,2,2,7
+342,Fragrant Tofu Red Curry,2,2,1,6
+343,Fragrant Pork Loin Pad Thai,1,1,1,4
+345,Spicy Mackerel Noodles,1,2,1,3
+347,Spicy Beef Red Curry,1,1,1,2
+348,Classic Sausage Stew,1,2,4,4
+349,Classic Tofu Linguine,2,2,3,6
+352,Creamy Pork Loin Lasagne,1,2,3,4
+355,Glazed Chicken Stew,1,2,4,1
+359,Crispy Steak Pie,1,1,4,2
+360,Simple Chicken Dal,1,2,2,1
+361,Mild Pork Chop Korma,1,1,2,4
